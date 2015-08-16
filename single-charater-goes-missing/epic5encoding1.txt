@@ -1,0 +1,18 @@
+See epic5encoding1.png
+
+       344   228   E4     ä     LATIN SMALL LETTER A WITH DIAERESIS                                                            
+                                                                                                                               
+Sending:                                                                                                                       
+        0x0030:  2165 17a3 5052 4956 4d53 4720 2365 7069  !e..PRIVMSG.#epi                                                     
+        0x0040:  6335 2d74 6573 7469 6e67 203a e40d 0a    c5-testing.:...                                                      
+                                                                                                                               
+Receiving:                                                                                                                     
+        0x0000:  4500 008c 1cf5 4000 3606 f52a 5bd9 bd2a  E.....@.6..*[..*                                                     
+        0x0010:  c0a8 58a0 1a0b 8437 7bdd af1d cc46 215e  ..X....7{....F!^                                                     
+        0x0020:  8018 00e3 d968 0000 0101 080a 11eb 853c  .....h.........<                                                     
+        0x0030:  34d9 b314 3a65 7069 6335 7465 7374 3121  4...:epic5test1!                                                     
+        0x0040:  7e64 6573 6173 7465 7240 6473 6c2d 686b  ~desaster@dsl-hk                                                     
+        0x0050:  6962 7261 7367 7733 2d35 3863 3364 632d  ibrasgw3-58c3dc-                                                     
+        0x0060:  3131 342e 6468 6370 2e69 6e65 742e 6669  114.dhcp.inet.fi                                                     
+        0x0070:  2050 5249 564d 5347 2023 6570 6963 352d  .PRIVMSG.#epic5-                                                     
+        0x0080:  7465 7374 696e 6720 3ae4 0d0a            testing.:...                                                         
